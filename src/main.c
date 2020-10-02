@@ -63,7 +63,7 @@ void entering_numbers() {
 }
 
 int main() {
-    int number_of_segments[] = {5, 10, 20, 100, 500, 1000};
+    int number_of_segments[] = {6, 10, 20, 100, 500, 1000};
     entering_numbers();
     view(number_of_segments);
     for (int i = 0; i < 6; i++) {
