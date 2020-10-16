@@ -5,6 +5,8 @@
 const float PI = 3.14159;
 
 
+
+
 char answer[6][25];
 double a, b;
 
